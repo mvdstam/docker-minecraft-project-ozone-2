@@ -1,0 +1,15 @@
+version: '2.1'
+
+services:
+  minecraft:
+    build: .
+    volumes:
+      - minecraft-data:/data
+    ports:
+      - "25565:25565"
+      - "25575:25575"
+    restart: always
+
+volumes:
+  minecraft-data:
+    driver: local
