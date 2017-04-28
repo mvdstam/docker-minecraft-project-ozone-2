@@ -12,4 +12,4 @@ The Docker image is based on [openjdk:8-jre-alpine](https://hub.docker.com/_/ope
 
 ## Credits
 
-Credits go to [jaysonsantos' original Skyfactory 3 repository](https://github.com/jaysonsantos/docker-minecraft-ftb-skyfactory3https://github.com/jaysonsantos/docker-minecraft-ftb-skyfactory3) which this repository is based on.
+Credits go to [jaysonsantos' original Skyfactory 3 repository](https://github.com/jaysonsantos/docker-minecraft-ftb-skyfactory3) which this repository is based on.
