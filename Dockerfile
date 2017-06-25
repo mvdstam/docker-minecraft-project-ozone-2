@@ -1,6 +1,6 @@
 FROM openjdk:8-jre-alpine
 
-ENV SERVER_ZIP=https://addons-origin.cursecdn.com/files/2388/314/Project_Ozone_2-Server-v.2.2.7.zip
+ENV SERVER_ZIP=https://addons-origin.cursecdn.com/files/2440/937/Project_Ozone_2-Server-v.2.3.0.zip
 
 RUN apk --no-cache add wget openssl unzip
 RUN addgroup -g 1234 minecraft
